@@ -1,0 +1,26 @@
+form{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+}
+
+.note{
+    margin-top: 15px; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.submit{
+    align-self: center;
+    width:50%;
+    
+}
+
+.delete{
+
+    background-color: transparent;
+    color: #C270CC;
+    font-size: 18px;
+}
